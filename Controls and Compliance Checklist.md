@@ -4,10 +4,6 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
 
 ### Controls assessment checklist
 
-Use markdown table, and use the `Table: <Your table description>` syntax to add
-a caption:
-
-
 | Yes   | No   |Control        |Explanation|
 | ----- | ---- | -------------|-----------|
 |       |   •  | Least Privilege| Currently, all employees have access to customer data; privileges need to be limited to reduce the risk of a breach.|
